@@ -1,9 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
-a=3
-b=4
-x=np.array([12,15,21,25])
-y=np.array([50,70,100,120])
+a=-37.49999
+b=11.34999
+x=np.array([3,4,5,6,7,8,9])
+y=np.array([4.8,8.4,14.3,23.6,36.2,52.8,71.9])
 y_pred=a+b*x
 plt.scatter(x,y,color='red',label='data points')
 plt.plot(x,y_pred,color='blue',label='Best fit line')
