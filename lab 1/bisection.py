@@ -19,7 +19,7 @@ def bisection(x0,x1,e):
         else:
             x0 = x2
         
-        step = step + 1
+        step  + =  1
         condition = abs(f(x2)) > e
 
     print('\nRequired Root is : %0.6f' % x2)
