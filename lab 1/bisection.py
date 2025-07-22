@@ -24,10 +24,10 @@ def bisection(x0,x1,e):
 
     print('\nRequired Root is : %0.6f' % x2)
 
-# Checking Correctness of initial guess values and bisecting
+# # Checking Correctness of initial guess values and bisecting
 c=True
 while c:
-    # Input Section
+   # Input Section
     x0 = float(input('First Guess: '))
     x1 = float(input('Second Guess: '))
     e = float(input('Tolerable Error: '))

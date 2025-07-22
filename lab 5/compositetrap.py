@@ -4,11 +4,10 @@
 def f(x):
     return 1+x**3  # Example function: f(x) = x^2
 
-a=1
-b=2
-# Step 3: Input the limits and number of subintervals
-# a = float(input("Enter the lower limit a: "))
-# b = float(input("Enter the upper limit b: "))
+
+#Step 3: Input the limits and number of subintervals
+a = float(input("Enter the lower limit a: "))
+b = float(input("Enter the upper limit b: "))
 n = int(input("Enter the number of subintervals n: "))
 
 # Step 4: Calculate the step size
