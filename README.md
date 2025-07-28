@@ -1,4 +1,4 @@
-# 🔢 Numerical Methods Lab – MATLAB/Python-Based Solvers
+# 🔢 Numerical Methods(above the theory) – MATLAB/Python-Based Solvers
 
 This repository is a comprehensive collection of **Numerical Methods algorithms**, implemented and documented for practical understanding and lab-based application. From solving linear systems to approximating integrals and ODEs, this repo covers it all with clean, testable code and theory-backed documentation.
 
